@@ -71,6 +71,15 @@ p {
     margin-left: 20px;
 }
 
+.information {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,19 +104,6 @@ p {
     max-width: 150px;
 }
 
-
-
-.information {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-
 .information img {
     max-height: 200px;
 }
@@ -126,6 +122,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
