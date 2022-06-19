@@ -18,5 +18,5 @@ It also assists in factoids about helping your business with Lead generaatuibm B
 https://moyuh.github.io/week-1-challenge/
 
 ### Screenshot of Webpage
-<img src= "moyuh.github.io_week-1-challenge_ (1).png"/>
+<img src= "moyuh.github.io_week-1-challenge_ (6).png"/>
 
