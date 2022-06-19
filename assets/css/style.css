@@ -80,6 +80,16 @@ p {
     color: #ffffff;
 }
 
+.information img {
+    max-height: 200px;
+}
+
+
+.information h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,17 +113,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.information img {
-    max-height: 200px;
-}
-
-
-.information h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 
 footer {
     padding: 30px;
