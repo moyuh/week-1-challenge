@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Blue Top header with Navigation and Company name */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,13 +16,30 @@ header {
     color: #ffffff;
 }
 
+/* Links to other websites */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-#seo {
-    color: #d9dcd6;
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+/* Company Name and Est date */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h4 {
+    font-size: 20px;
 }
 
 .link-list {
@@ -37,38 +55,9 @@ h1 {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-#hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
 .float-left {
     float: left;
     margin-right: 25px;
-}
-
-#float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-#content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .information {
@@ -89,7 +78,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Right side of Webpage in a Column down the side of the main content */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -113,14 +102,27 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+/* specialized color in name of company */
+#seo {
+    color: #d9dcd6;
+}
+/* Large Background Photo */
+#hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
-footer h4 {
-    font-size: 20px;
+#float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+#content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
