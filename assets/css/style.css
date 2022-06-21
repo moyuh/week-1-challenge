@@ -63,6 +63,11 @@ li{
     margin-right: 25px;
 }
 
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 .information {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,11 +122,6 @@ li{
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-#float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 #content {
